@@ -1,0 +1,6 @@
+make
+cd bin/
+java Main
+mv RescorlaWagnerValues.txt ../RescorlaWagnerValues.txt
+cd ..
+make clean

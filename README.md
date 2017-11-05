@@ -1,5 +1,7 @@
 # Language Aquisition with the NDL model
 
+[![License](https://img.shields.io/github/license/Trybnetic/language-aquisition-with-the-ndl-model.svg)](https://github.com/Trybnetic/language-aquisition-with-the-ndl-model/blob/master/LICENSE.txt)  
+
 ## Abstract
 
 In this study we modeled a simple agent and implemented a learning algorithm based on the naive discriminative learning (NDL) model. At the beginning of each trial the agent receives a cue where a target can be found. At the beginning the agent has no information about the meaning of the cues. The goal of our study was to show how the associations for task relevant words gets learned whereas associations for task-irrelevant words do not.
@@ -30,7 +32,4 @@ In this study we modeled a simple agent and implemented a learning algorithm bas
 4. Now you have a .txt file with the learned Rescorla-Wagner-Values
 
 ## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+This work is [licensed under the MIT license](https://github.com/Trybnetic/language-aquisition-with-the-ndl-model/blob/master/LICENSE.txt). Check the license on whether and how you are allowed to use, modify and distribute this theme.
